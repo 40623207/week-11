@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-11-13T11:00:00+08:00</updated><entry><title>2017 Fall CADP 第十週</title><link href="./40623207-2017-fall-cp-w10.html" rel="alternate"></link><published>2017-11-13T11:00:00+08:00</published><updated>2017-11-13T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:None,2017-11-13:./40623207-2017-fall-cp-w10.html</id><summary type="html">&lt;p&gt;W10&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W10&lt;/p&gt;
+
+
+&lt;h4&gt;軟體下載&lt;/h4&gt;
+&lt;p&gt;Dia pottable、GIMP Portable、PCT Creo 4&lt;/p&gt;
+&lt;h4&gt;修改隨身系統,使其開啟時個人Leo也開啟&lt;/h4&gt;
+&lt;p&gt;*1.將star.bat拉進SciTE修改,將REM及\apps刪除,並將資料夾改成正確的.&lt;/p&gt;
+&lt;p&gt;*2.將launchLeo.py拉進SciTE修改,將()內輸入正確的資料夾順序.&lt;/p&gt;
+&lt;h4&gt;用 Eric6 完成計算機對話框所需按鍵的配置, 使用格點佈局, 設定 Dialog, pressButton 與 lineEdit 物件的尺寸大小, 命名物件, 設定 clicked 與 connect 方法.&lt;/h4&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W10"></category></entry><entry><title>2017 Fall CADP 第九週</title><link href="./40623207-2017-fall-cp-w9-exam.html" rel="alternate"></link><published>2017-11-06T11:00:00+08:00</published><updated>2017-11-06T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:None,2017-11-06:./40623207-2017-fall-cp-w9-exam.html</id><summary type="html">&lt;p&gt;W9 學習心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W9 學習心得&lt;/p&gt;
+
+
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/241450114"width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/241450114"&gt;虎尾科技大學 - 機械設計工程系 - 計算機程式&lt;/a&gt;from&lt;a href="https://vimeo.com/user73453754"&gt;呂沛蓉&lt;/a&gt;on&lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;第九週自評成績&lt;/h3&gt;
+&lt;p&gt;出席情況:100&lt;/p&gt;
+&lt;p&gt;隨身碟內容:85&lt;/p&gt;
+&lt;p&gt;個人倉儲內容:80&lt;/p&gt;
+&lt;p&gt;上課摘要:85&lt;/p&gt;
+&lt;p&gt;簡報內容:60&lt;/p&gt;
+&lt;p&gt;自評分數:80&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W9"></category><category term="Exam"></category></entry><entry><title>2017 Fall CADP 第八週</title><link href="./40623207-2017-fall-cp-w8-exam.html" rel="alternate"></link><published>2017-10-30T11:00:00+08:00</published><updated>2017-10-30T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:None,2017-10-30:./40623207-2017-fall-cp-w8-exam.html</id><summary type="html">&lt;p&gt;W8 Exam&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W8 Exam&lt;/p&gt;
+
+
+&lt;h3&gt;操作影片&lt;/h3&gt;
+&lt;h4&gt;使用 for 迴圈、函式與類別定義&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/240818215"width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/240818215"&gt;虎尾科技大學 - 機械設計工程系 - 計算機程式&lt;/a&gt;from&lt;a href="https://vimeo.com/user73453754"&gt;呂沛蓉&lt;/a&gt;on&lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h4&gt;利用Eric6 IDE建立所需的計算器計算機程序對話表單&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/240818451"width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/240818451"&gt;虎尾科技大學 - 機械設計工程系 - 計算機程式&lt;/a&gt;from&lt;a href="https://vimeo.com/user73453754"&gt;呂沛蓉&lt;/a&gt;on&lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;p&gt;經過老師的教學講解與示範後,我已經能夠做出簡單的for迴圈與計算機的程序對話表單,相信在過不久我也能自己做出可使用的計算機,現在也比較了解leo的使用方法了.&lt;/p&gt;
+&lt;h3&gt;第八週自評成績&lt;/h3&gt;
+&lt;p&gt;出席情況:100&lt;/p&gt;
+&lt;p&gt;紙本筆記:60&lt;/p&gt;
+&lt;p&gt;隨身碟內容:85&lt;/p&gt;
+&lt;p&gt;個人倉儲內容:80&lt;/p&gt;
+&lt;p&gt;上課摘要:85&lt;/p&gt;
+&lt;p&gt;自評分數:80&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W8"></category><category term="Exam"></category></entry><entry><title>2017 Fall CADP 第七週</title><link href="./40623207-2017-fall-cp-w7-exam.html" rel="alternate"></link><published>2017-10-23T11:00:00+08:00</published><updated>2017-10-23T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:None,2017-10-23:./40623207-2017-fall-cp-w7-exam.html</id><summary type="html">&lt;p&gt;W7 Exam&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W7 Exam&lt;/p&gt;
+
+
+&lt;h3&gt;操作影片&lt;/h3&gt;
+&lt;h4&gt;新增網誌到近端&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/240345245"width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/240345245"&gt;虎尾科技大學 - 機械設計工程系 - 計算機程式&lt;/a&gt;from&lt;a href="https://vimeo.com/user73453754"&gt;呂沛蓉&lt;/a&gt;on&lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h4&gt;提交到遠端&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/240345550"width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/240345550"&gt;虎尾科技大學 - 機械設計工程系 - 計算機程式&lt;/a&gt;from&lt;a href="https://vimeo.com/user73453754"&gt;呂沛蓉&lt;/a&gt;on&lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;p&gt;在第一週到第六週的期間,我從第一次接觸到Fossil SCM還不懂Fossil SCM的操作到現在已經會基本的操作並且使用Fossil SCM,也學會自己拍影片上傳到網誌.
+在上課時,常常會聽不懂為神麼要這樣做,有時也會不懂老師再說神麼,所以常常會跟同學互相討論,並且研究老師拍的影片,也讓我更加熟悉,也學到了很多.&lt;/p&gt;
+&lt;h3&gt;自評成績&lt;/h3&gt;
+&lt;p&gt;每週出席情況:100&lt;/p&gt;
+&lt;p&gt;紙本筆記:65&lt;/p&gt;
+&lt;p&gt;隨身碟內容:80&lt;/p&gt;
+&lt;p&gt;個人倉儲內容:75&lt;/p&gt;
+&lt;p&gt;各週上課摘要:65&lt;/p&gt;
+&lt;p&gt;自評分數:70&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W7"></category><category term="Exam"></category></entry><entry><title>2017 Fall CADP 第六週</title><link href="./40623207-2017-fall-cp-w6.html" rel="alternate"></link><published>2017-10-16T11:00:00+08:00</published><updated>2017-10-16T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:None,2017-10-16:./40623207-2017-fall-cp-w6.html</id><summary type="html">&lt;p&gt;W6&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W6&lt;/p&gt;
+
+
+&lt;p&gt;複習並整合前六週的上課內容&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W6"></category></entry><entry><title>2017 Fall CADP 第五週</title><link href="./40623207-2017-fall-cp-w5.html" rel="alternate"></link><published>2017-10-09T11:00:00+08:00</published><updated>2017-10-09T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:None,2017-10-09:./40623207-2017-fall-cp-w5.html</id><summary type="html">&lt;p&gt;W5&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W5&lt;/p&gt;
+
+
+&lt;p&gt;雙十連假&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W5"></category></entry><entry><title>2017 Fall CADP 第四週</title><link href="./40623207-2017-fall-cp-w4.html" rel="alternate"></link><published>2017-10-02T11:00:00+08:00</published><updated>2017-10-02T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:None,2017-10-02:./40623207-2017-fall-cp-w4.html</id><summary type="html">&lt;p&gt;W4&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W4&lt;/p&gt;
+
+
+&lt;p&gt;學習當版本資料變更時, 可以利用 fossil status 查看內容, 必要時利用 fossil delete 配合維護近端版本的一致性.&lt;/p&gt;
+&lt;p&gt;練習如何利用 .fossil-settings 目錄下的 ignore-glob 檔案, 避開從近端推送到遠端的特定檔案.&lt;/p&gt;
+&lt;p&gt;練習如何利用 Leo Editor 新增個人網誌.&lt;/p&gt;
+&lt;p&gt;練習簡易的for迴圈&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W4"></category></entry><entry><title>2017 Fall CADP 第三週</title><link href="./40623207-2017-fall-cp-w3.html" rel="alternate"></link><published>2017-09-25T11:00:00+08:00</published><updated>2017-09-25T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:None,2017-09-25:./40623207-2017-fall-cp-w3.html</id><summary type="html">&lt;p&gt;W3&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W3&lt;/p&gt;
+
+
+&lt;p&gt;練習如何從 https://cadpb.kmol.info/4052 clone 網誌與投影片架構檔案, 然後提交推送到自己的倉儲.&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W3"></category></entry><entry><title>2017 Fall CADP 第二週</title><link href="./2017-fall-cadp-w2.html" rel="alternate"></link><published>2017-09-20T11:00:00+08:00</published><updated>2017-09-20T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:None,2017-09-20:./2017-fall-cadp-w2.html</id><summary type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
+
+
+&lt;p&gt;二乙上課內容&lt;/p&gt;
+&lt;p&gt;希望為每位學員建立倉儲的設想流程如下:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;各學員可以獨立維護倉儲內容, 也可以在總管理員的權限下, 為分組學員建立帳號, 逐步導入協同設計&lt;/li&gt;
+&lt;li&gt;各學員的倉儲以修課班級命名伺服器, 以學號命名倉儲, 方便依照此一規律擷取各學員的倉儲頁面.&lt;/li&gt;
+&lt;li&gt;各學員能以電子郵件收到與新建倉儲相關的連結, 以及帳號密碼.&lt;/li&gt;
+&lt;li&gt;必須擴增 Ubuntu ulimits -n 同時開檔的設限範圍 (內定只允許同時開啟 1024 個檔案)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;解決方案:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;主機名稱可以透過 domain dns 中的 CNAME 別名方式處理, 因為目前所能提供出來的 IPv4/IPv6 雙支援主機, 之前已經都設定了符號名稱.&lt;/li&gt;
+&lt;li&gt;fossil init 雖然提供指定管理者的 -A 選項功能, 但是無法直接指定管理者對應密碼, 因此必須建立倉儲之後, 再利用 fossil user 修改密碼, 之後再利用 Gmail 寄出通知信, 其中提供倉儲連結, 登入帳號與密碼等資訊.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;建立各學員倉儲檔案的程式如下, 如前所述, 主要透過兩個 Fossil SCM 指令完成, 在 Windows 採用 Fossil SCM 2.3 版建立所有 .fossil 倉儲時, 將同時以 email 通知各學員. 各學員的 .fossil 檔案再以 sftp 送到伺服主機對應帳號所屬的目錄下. 必須要特別注意的是, 採用 Fossil SCM 2.3 版所建立的 .fossil 倉儲檔案, 在 Ubuntu 操作系統上也必須採用相同版本的 fossil, 否則舊版 fossil 可能無法開啟新版 fossil 程式所建立的倉儲檔.&lt;/p&gt;
+&lt;pre class="brush: python"&gt;
+import os
+import string
+import random
+# 使用 Gmail 寄信必須導入下列模組
+import smtplib
+import re
+from email.mime.text import MIMEText  
+from email.header import Header
+
+# 用來以亂數建立密碼的韓式
+def id_generator(size=6, chars=string.ascii_uppercase + string.digits):
+    '''
+    source: https://stackoverflow.com/questions/2257441/random-string-generation-with-upper-case-letters-and-digits-in-python
+    '''
+    return ''.join(random.choice(chars) for _ in range(size))
+
+# 讀取學員名單, 逐一取得學員學號, 學員名單, 檢查點 1/7
+student_data = open("2017fall_list/1b.txt").read()
+student_list = student_data.splitlines()
+
+# 利用 gmail smtp 功能寄信
+server = smtplib.SMTP('smtp.gmail.com:587')
+server.ehlo()
+server.starttls()
+# 以下必須準備好對應郵件帳號與密碼的外部檔案, 所提供的寄信帳號, 是否可以寄信, 檢查點 2/7
+'''
+寄信之前必須到 https://www.google.com/settings/security/lesssecureapps 修改權限, 改為較低安全權限
+否則無法使用程式寄信!
+'''
+# 從外部檔案讀取要用來寄信的 gmail 帳號與密碼
+# mail.txt 格式為: 電子郵箱,對應密碼, 以逗點隔開, 檢查點 3/7
+email_data = open("z:/2017fall/mail.txt").read()
+email, email_password= email_data.split(",")
+print(email, email_password)
+# 是否登入所提供寄信的電子郵箱, 4/7
+server.login(email, email_password)
+# 不同課程名稱, 與對應主機名稱, 必須配合修改 5/7
+course_title = "計算機程式"
+fossil_server = "cpb.kmol.info"
+
+for student_num in student_list:
+    username = student_num
+    repository = username + '.fossil'
+    # 利用所提供的字串, 以亂數組成六個字元的密碼
+    password = id_generator(6, "23456789abcdef")
+    print(student_num, ", " , password)
+
+    # 執行 dos command 指令, 建立倉儲
+    os.system("fossil init -A " +username + " " + repository)
+    print("已經建立倉儲 " + repository)
+
+    # 執行 dos command 指令, 修改使用者密碼
+    os.system("fossil user password " + username + " " + password + " -R " + repository)
+    print("已經修改密碼")
+
+    # 利用 Gmail 寄信, 告知各學員倉儲連結與帳號密碼
+    # 每一位學員收到的 output 都從這裡 reset
+    output = ""
+    # 若學號欄為空, 則不寄信
+    if student_num != "":
+        # output 為寄給每一位學員的資料表格
+        mail_content = student_num+' 您好: &lt;br /&gt;&lt;br /&gt; 您在 '+course_title+' 課程中的區域網路倉儲: &lt;a href="https://'+fossil_server+'/'+student_num+'"&gt;https://'+fossil_server+'/'+student_num+'&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;'
+        mail_content += '管理帳號為:'+ student_num + '&lt;br /&gt; 管理密碼為: '+ password+'&lt;br /&gt;&lt;br /&gt;'
+        print(student_num)
+        print(mail_content)
+        # 至此 mail_content 已經確定
+        # 在測試與實際寄送資料, 也必須配合修改, 檢查點  6/7
+        receiver_email = student_num + "@gm.nfu.edu.tw"
+        # 測試用
+        #receiver_email = student_num+"@mde.tw"
+        # 列出收信人 email 位址
+        #print(receiver_email)
+        #message= MIMEText(mail_content,'plain','UTF-8')
+        # 以 html 格式寄信
+        message= MIMEText(mail_content,'html','UTF-8')
+        message['Subject'] = Header(course_title+" Fossil SCM 帳號通知", 'UTF-8') 
+        # 可以先不寄信, 確定格式正確後再開啟, 是否實際寄出信件, 檢查點 7/7
+        server.sendmail("gmail_address", receiver_email, message.as_string())
+server.quit()
+&lt;/pre&gt;
+
+&lt;p&gt;各班所完成的主機:&lt;/p&gt;
+&lt;p&gt;二甲電腦輔助設計實習: &lt;a href="https://cadpa.kmol.info"&gt;https://cadpa.kmol.info&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;二乙電腦輔助設計實習: &lt;a href="https://cadpb.kmol.info"&gt;https://cadpb.kmol.info&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一甲計算機程式: &lt;a href="https://cpa.kmol.info"&gt;https://cpa.kmol.info&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一乙計算機程式: &lt;a href="https://cpb.kmol.info"&gt;https://cpb.kmol.info&lt;/a&gt;&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第一週</title><link href="./40623207-2017-fall-cp-w1.html" rel="alternate"></link><published>2017-09-11T11:00:00+08:00</published><updated>2017-09-11T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:None,2017-09-11:./40623207-2017-fall-cp-w1.html</id><summary type="html">&lt;p&gt;W1&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W1&lt;/p&gt;
+
+
+&lt;h3&gt;機械設計與表達&lt;/h3&gt;
+&lt;p&gt;設計是一種明確與具體的表達, 而且是在仔細思考、多方考量後所完成的表達, 表達具有六種形式, 包括口語、文字、2D、3D、數學與實體表達, 設計的結果可以讓執行者有所依循, 根據指示執行後, 可得預期之結果.&lt;/p&gt;
+&lt;p&gt;機械是一種器物, 而且是由固體、流體與軟體元件精巧組合而成, 可互動運作, 達成特定功能之器物.&lt;/p&gt;
+&lt;p&gt;因此機械設計就是靈活運用六種表達, 明確說明如何透過固體、流體與軟體元件之互動運作, 而能達成預定結果之明確與具體表達.&lt;/p&gt;
+&lt;p&gt;參與機械設計的工程師, 為順利完成任務, 解決產品開發過程所面臨的各項問題, 展現創造力的三種必備能力: 自學能力、執行能力與想像能力.&lt;/p&gt;
+&lt;p&gt;由於機械設計流程牽涉許多固體、流體與軟體元件配置, 而且當多名成員在協同設計過程中, 會於不同時間納入各種機械設計組成及六種表達內容, 因此必須要設法運用組態管理 (Configuration Management) 系統, 呈現各時間點詳細的組成內容與狀態.&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W1"></category></entry></feed>
